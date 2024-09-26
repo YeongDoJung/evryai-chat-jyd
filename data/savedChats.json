@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2c0c964d-c133-41fa-b53b-ab23a3a2fc68",
+    "title": "New Chat",
+    "messages": [
+      {
+        "id": "53e3def5-d5dc-4509-836b-f838335d981a",
+        "sender": "user",
+        "message": "hi evry"
+      },
+      {
+        "id": "c9afc2b2-719a-4647-bc3b-9c33ba46982a",
+        "sender": "ai",
+        "message": ""
+      },
+      {
+        "id": "c9afc2b2-719a-4647-bc3b-9c33ba46982a",
+        "sender": "ai",
+        "message": "Sorry, something went wrong."
+      },
+      {
+        "id": "66e7fd0e-cfc0-4c17-85df-3af115e99a3d",
+        "sender": "ai",
+        "message": "Sorry, something went wrong."
+      },
+      {
+        "id": "5712d700-b94d-4a6c-b304-f62b89721217",
+        "sender": "user",
+        "message": "hi"
+      },
+      {
+        "id": "1fa4756f-bce7-4431-8d16-cc6be3d59b3e",
+        "sender": "ai",
+        "message": ""
+      },
+      {
+        "id": "1fa4756f-bce7-4431-8d16-cc6be3d59b3e",
+        "sender": "ai",
+        "message": "Sorry, something went wrong."
+      },
+      {
+        "id": "8be3b2ea-1851-4b2d-a360-20d0a03d2754",
+        "sender": "user",
+        "message": "hi"
+      },
+      {
+        "id": "48b823e4-cd07-4073-9b7b-adbe1f68f1c5",
+        "sender": "ai",
+        "message": ""
+      },
+      {
+        "id": "48b823e4-cd07-4073-9b7b-adbe1f68f1c5",
+        "sender": "ai",
+        "message": "Sorry, something went wrong."
+      }
+    ]
+  },
+  {
+    "id": "f6a6c021-a6ca-4187-b911-6c2434ee19ea",
+    "title": "피로를 줄이는 방법: 충분 수면, 규칙적 운동, 올바른 식습관, 스트레스 관리,",
+    "messages": [
+      {
+        "id": "b24418ef-d15e-42b7-a143-d91637fcda49",
+        "sender": "user",
+        "message": "피곤함을 덜 느끼는 방법을 알려줘"
+      },
+      {
+        "id": "8bf3f4be-35bc-407b-ab09-39d10e628522",
+        "sender": "ai",
+        "message": "1. 충분한 수면을 취하라: 매일 일정한 시간에 충분한 수면을 취하는 것이 가장 중요하다. 수면 부족은 피로감을 유발할 수 있으므로, 하루에 7-9시간의 수면을 꾸준히 유지하도록 노력해야 한다.\n\n2. 규칙적인 운동을 실천하라: 규칙적인 운동은 체력을 향상시켜 피로를 줄여준다. 주 3-4회 정도의 유산소 운동과 근력 운동을 조합하여 실천하면 피로감을 줄일 수 있다.\n\n3. 올바른 식습관을 갖추라: 균형 잡힌 식사를 유지하고, 영양소가 풍부한 음식을 섭취하는 것이 중요하다. 과다한 카페인이나 당분을 섭취하지 않도록 주의하고, 채소와 과일 등 건강한 식품을 적절히 섭취하도록 노력하라.\n\n4. 스트레스 관리를 잘하라: 스트레스는 피로를 유발하는 주요 요인 중 하나이다. 스트레스 관리 기술을 배우고, 심신을 편안하게 유지하도록 마음가짐을 가다듬으며, 적절한 휴식을 취하도록 노력하라.\n\n5. 물을 충분히 섭취하라: 수분 섭취가 충분하지 않으면 신체가 탈수될 수 있으며, 피로를 유발할 수 있다. 하루에 적어도 2리터의 물을 섭취하고, 수분 섭취량을 유지하도록 노력하라.\n\n이러한 방법들을 실천하면 피로함을 덜 느끼고, 건강하고 활기찬 삶을 누릴 수 있을 것이다."
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a9d07ef1-0389-4a43-9d1e-e5eef27bb0c4"
+      }
+    },
+    "owner": "yeongdojung",
+    "slug": "evryai-chat-ydj",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a9d07ef1-0389-4a43-9d1e-e5eef27bb0c4"
+    },
+    "android": {
+      "package": "com.yeongdojung.evryaichatydj"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yeongdojung.evryaichatydj"
+    }
+  }
+}
